@@ -16,8 +16,7 @@ How do Impressionism and Cubism differ in terms of temporal development, geograp
 - Python  
 - Pandas  
 - Plotly  
-- Jupyter Notebook  
-
+- Google Colab (Jupyter Notebook environment)
 ---
 
 ## 📊 Dataset
