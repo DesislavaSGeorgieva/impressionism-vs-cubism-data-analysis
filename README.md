@@ -64,7 +64,17 @@ A comparative analysis of artwork counts suggests differences in production patt
 
 ## 📷 Preview
 
-(Add screenshots here)
+### Temporal Evolution
+![Timeline](images/timeline.png)
+
+### Geographical Distribution
+![Geography](images/geo.png)
+
+### Artistic Output
+![Output](images/output.png)
+
+### Distribution
+![Distribution](images/distribution.png)
 
 ---
 
