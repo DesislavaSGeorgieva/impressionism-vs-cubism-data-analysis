@@ -80,6 +80,7 @@ A comparative analysis of artwork counts suggests differences in production patt
 
 ## 🤝 About Me
 
+
 I am a PhD Art Historian specializing in Bulgarian Revival painting and the Samokov School of icon painters — one of the most significant traditions of Orthodox iconography in the Balkans. This doctoral background in visual and iconographic analysis forms the foundation of my current work in Digital Art History, where I combine art historical expertise with computational tools to explore visual culture through data.
 ---
 
